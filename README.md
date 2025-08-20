@@ -8,6 +8,9 @@ ST3WJDDYB6R0PTWYRF6700T0MAY97DS0QVSGAZSNA.storage-contract1![](Aspose.Words.c4d5
 
 This smart contract enables users to generate tokens by paying STX and securely swap them through an escrow-based marketplace on Stacks. It features rate limiting, maximum supply controls, time- based swap expiry, and comprehensive security measures.
 
+<img width="801" height="1185" alt="image" src="https://github.com/user-attachments/assets/cf62cc7a-ca14-4fd9-9c19-6faea153d5e1" />
+
+
 Show Image![](Aspose.Words.c4d59ef8-b59c-4d17-952b-e4fc866ca7b2.002.png)
 
 ⭐ Features
@@ -201,4 +204,5 @@ For issues or questions:
 - Join Stacks Discord community![](Aspose.Words.c4d59ef8-b59c-4d17-952b-e4fc866ca7b2.029.png)
 
 ⚠ Disclaimer: This contract is for educational/experimental purposes. Always audit smart contracts before mainnet deployment with real funds.
+
 
